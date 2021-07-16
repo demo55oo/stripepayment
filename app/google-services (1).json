@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "188545186220",
+    "firebase_url": "https://bridal-f3ec8-default-rtdb.firebaseio.com",
+    "project_id": "bridal-f3ec8",
+    "storage_bucket": "bridal-f3ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188545186220:android:e085ba38d6cfdd58a1a209",
+        "android_client_info": {
+          "package_name": "com.example.bridal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188545186220-jd47h687gcek7je2ljifeor46d2qhvqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI28DuteNqQpF2gYwrijxZz9g9p7GAkic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188545186220-jd47h687gcek7je2ljifeor46d2qhvqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188545186220-oqc02f1ha37gvk1abhhmpb9d3dkde0d2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Bridal.Bridal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188545186220:android:52352ebf231a7456a1a209",
+        "android_client_info": {
+          "package_name": "com.example.firebasemobilepayments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188545186220-jd47h687gcek7je2ljifeor46d2qhvqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI28DuteNqQpF2gYwrijxZz9g9p7GAkic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188545186220-jd47h687gcek7je2ljifeor46d2qhvqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188545186220-oqc02f1ha37gvk1abhhmpb9d3dkde0d2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Bridal.Bridal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
